@@ -1,8 +1,5 @@
 # Boas vindas ao repositório do projeto loja-medieval-API!
 
-Para este projeto, você vai criar uma loja de itens medievais, no formato de uma API, utilizando Typescript.
-
-
 ## Sobre
 Projeto desenvolvido em TypeScript, que simula uma loja medieval, onde desenvolvi todas as camadas da aplicação (Models, Service e Controllers) em seu código e, por meio dessa aplicação, é possível realizar as operações básicas que se pode fazer em um determinado banco de dados: Criação, Leitura, Atualização e Exclusão (ou CRUD, para as pessoas mais íntimas 😜 - Create, Read, Update e Delete).
 
