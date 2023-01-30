@@ -24,9 +24,9 @@ Projeto desenvolvido em TypeScript, que simula uma loja medieval, onde desenvolv
 3. Se não estiver na versão 16 basta usar o comando: `nvm use 16`
 4. Rode os serviços node e db com o comando: `docker-compose up -d`.
 
-Lembre-se de parar o mysql se estiver usando localmente na porta padrão (3306), ou adapte, caso queria fazer uso da aplicação em containers;
-Esses serviços irão inicializar um container chamado trybesmith e outro chamado trybesmith_db.
-A partir daqui você pode rodar o container store_manager via CLI ou abri-lo no VS Code.
+- Lembre-se de parar o mysql se estiver usando localmente na porta padrão (3306), ou adapte, caso queria fazer uso da aplicação em containers;
+- Esses serviços irão inicializar um container chamado trybesmith e outro chamado trybesmith_db.
+- A partir daqui você pode rodar o container store_manager via CLI ou abri-lo no VS Code.
 
 Opção 1: Use o comando `docker-compose run node npm test`, ou para acessar o container e executar lá:
 
